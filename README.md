@@ -1,11 +1,23 @@
-<h1 align="center">Hi 👋, I'm Indu Singh</h1>
-<h3 align="center">Full Stack & MERN Stack Developer | Crafting Scalable Web Solutions</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋,+I'm+Indu+Singh;Full+Stack+Developer;MERN+Stack+Expert;Problem+Solver" />
+</h1>
+
+<h3 align="center">⚡ Turning Ideas Into Scalable Web Applications ⚡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Indu-Singh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/Indu-Singh?tab=followers">
     <img src="https://img.shields.io/github/followers/Indu-Singh?label=Followers&style=social" alt="GitHub Followers" />
   </a>
+  <a href="https://github.com/Indu-Singh">
+    <img src="https://img.shields.io/github/stars/Indu-Singh?label=Total%20Stars&style=social" alt="GitHub Stars" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Passionate-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Design-Creative-4ECDC4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team-Collaborative-45B7D1?style=flat-square" />
 </p>
 
 ---
